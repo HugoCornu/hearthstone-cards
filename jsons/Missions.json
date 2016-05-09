@@ -1,0 +1,138 @@
+[
+    {
+        "set": "Missions",
+        "cost": "0",
+        "race": "",
+        "attack": "",
+        "format": "Wild",
+        "name": "Barrel",
+        "health": "2",
+        "description": "Is something in this barrel?",
+        "hero": "",
+        "type": "Minion",
+        "quality": "Common"
+    },
+    {
+        "set": "Missions",
+        "cost": "1",
+        "race": "",
+        "format": "Wild",
+        "name": "Bananas",
+        "description": "Give a friendly minion +1/+1. (+1 Attack/+1 Health)",
+        "hero": "",
+        "type": "Spell",
+        "quality": "Common"
+    },
+    {
+        "set": "Missions",
+        "cost": "2",
+        "race": "",
+        "attack": "1",
+        "format": "Wild",
+        "name": "Hidden Gnome",
+        "health": "3",
+        "description": "Was hiding in a barrel!",
+        "hero": "",
+        "type": "Minion",
+        "quality": "Common"
+    },
+    {
+        "set": "Missions",
+        "cost": "1",
+        "race": "",
+        "format": "Wild",
+        "name": "Barrel Toss",
+        "description": "Deal 2 damage.",
+        "hero": "",
+        "type": "Spell",
+        "quality": "Common"
+    },
+    {
+        "set": "Missions",
+        "cost": "2",
+        "race": "",
+        "format": "Wild",
+        "name": "Stomp",
+        "description": "Deal 2 damage to all enemies.",
+        "hero": "",
+        "type": "Spell",
+        "quality": "Common"
+    },
+    {
+        "set": "Missions",
+        "cost": "1",
+        "race": "",
+        "attack": "2",
+        "format": "Wild",
+        "name": "Riverpaw Gnoll",
+        "health": "1",
+        "hero": "",
+        "type": "Minion",
+        "quality": "Common"
+    },
+    {
+        "cost": "3",
+        "set": "Missions",
+        "race": "",
+        "format": "Wild",
+        "name": "Hogger SMASH!",
+        "description": "Deal 4 damage.",
+        "hero": "",
+        "type": "Spell",
+        "quality": "Common"
+    },
+    {
+        "set": "Missions",
+        "cost": "4",
+        "race": "",
+        "attack": "5",
+        "format": "Wild",
+        "name": "Massive Gnoll",
+        "health": "2",
+        "hero": "",
+        "type": "Minion",
+        "quality": "Common"
+    },
+    {
+        "set": "Missions",
+        "race": "",
+        "format": "Wild",
+        "name": "King Mukla",
+        "health": "26",
+        "hero": "",
+        "type": "Hero",
+        "quality": "Common"
+    },
+    {
+        "set": "Missions",
+        "cost": "3",
+        "race": "",
+        "format": "Wild",
+        "name": "Will of Mukla",
+        "description": "Restore 8 Health.",
+        "hero": "",
+        "type": "Spell",
+        "quality": "Common"
+    },
+    {
+        "set": "Missions",
+        "race": "",
+        "format": "<span id=\"hs-card-set-icon\"></span>Missions",
+        "name": "Hemet Nesingwary",
+        "health": "20",
+        "hero": "Hunter",
+        "type": "Hero"
+    },
+    {
+        "set": "Missions",
+        "cost": "1",
+        "race": "",
+        "attack": "1",
+        "format": "Wild",
+        "name": "Crazed Hunter",
+        "health": "1",
+        "hero": "",
+        "type": "Minion",
+        "quality": "Common"
+    }
+]

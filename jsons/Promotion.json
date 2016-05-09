@@ -1,0 +1,107 @@
+[
+    {
+        "cost": "1",
+        "set": "Promotion",
+        "race": "Mech",
+        "attack": "0",
+        "format": "Wild",
+        "name": "Emboldener 3000",
+        "description": "At the end of your turn, give a random minion +1/+1.",
+        "health": "4",
+        "hero": "",
+        "type": "Minion",
+        "quality": "Common"
+    },
+    {
+        "set": "Promotion",
+        "cost": "1",
+        "race": "Mech",
+        "attack": "0",
+        "format": "Wild",
+        "name": "Poultryizer",
+        "health": "3",
+        "description": "At the start of your turn, transform a random minion into a 1/1 Chicken.",
+        "hero": "",
+        "type": "Minion",
+        "quality": "Common"
+    },
+    {
+        "set": "Promotion",
+        "cost": "1",
+        "race": "Mech",
+        "attack": "0",
+        "format": "Wild",
+        "name": "Homing Chicken",
+        "health": "1",
+        "description": "At the start of your turn, destroy this minion and draw 3 cards.",
+        "hero": "",
+        "type": "Minion",
+        "quality": "Common"
+    },
+    {
+        "set": "Promotion",
+        "cost": "0",
+        "race": "Beast",
+        "attack": "1",
+        "format": "Wild",
+        "name": "Chicken",
+        "health": "1",
+        "description": "Hey Chicken!",
+        "hero": "",
+        "type": "Minion"
+    },
+    {
+        "set": "Promotion",
+        "cost": "1",
+        "race": "Mech",
+        "attack": "0",
+        "format": "Wild",
+        "name": "Repair Bot",
+        "health": "3",
+        "description": "At the end of your turn, restore 6 Health to a damaged character.",
+        "hero": "",
+        "type": "Minion",
+        "quality": "Common"
+    },
+    {
+        "set": "Promotion",
+        "cost": "4",
+        "race": "",
+        "format": "Wild",
+        "name": "I Am Murloc",
+        "description": "Summon three, four, or five 1/1 Murlocs.",
+        "hero": "",
+        "type": "Spell"
+    },
+    {
+        "set": "Promotion",
+        "cost": "0",
+        "race": "Murloc",
+        "attack": "1",
+        "format": "Wild",
+        "name": "Murloc",
+        "health": "1",
+        "hero": "",
+        "type": "Minion"
+    },
+    {
+        "cost": "4",
+        "set": "Promotion",
+        "race": "",
+        "format": "Wild",
+        "name": "Rogues Do It...",
+        "description": "Deal 4 damage. Draw a card.",
+        "hero": "",
+        "type": "Spell"
+    },
+    {
+        "cost": "4",
+        "set": "Promotion",
+        "race": "",
+        "format": "Wild",
+        "name": "Power of the Horde",
+        "description": "Summon a random Horde Warrior.",
+        "hero": "",
+        "type": "Spell"
+    }
+]
